@@ -47,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Devensingh09/Problems/tree/master/0349-intersection-of-two-arrays) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Devensingh09/Problems/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Devensingh09/Problems/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
