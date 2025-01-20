@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Devensingh09/Problems/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/Devensingh09/Problems/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Devensingh09/Problems/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -21,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Devensingh09/Problems/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Devensingh09/Problems/tree/master/0349-intersection-of-two-arrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Devensingh09/Problems/tree/master/2685-first-completely-painted-row-or-column) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devensingh09/Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0349-intersection-of-two-arrays](https://github.com/Devensingh09/Problems/tree/master/0349-intersection-of-two-arrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Devensingh09/Problems/tree/master/2685-first-completely-painted-row-or-column) |
 ## Matrix
 |  |
@@ -39,4 +42,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Devensingh09/Problems/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Devensingh09/Problems/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Devensingh09/Problems/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
