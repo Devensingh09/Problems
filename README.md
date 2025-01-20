@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Devensingh09/Problems/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/Devensingh09/Problems/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Devensingh09/Problems/tree/master/0088-merge-sorted-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Devensingh09/Problems/tree/master/2685-first-completely-painted-row-or-column) |
 ## Hash Table
 |  |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devensingh09/Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Devensingh09/Problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
