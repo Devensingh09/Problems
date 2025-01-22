@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Devensingh09/Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Devensingh09/Problems/tree/master/0136-single-number) |
+| [0219-contains-duplicate-ii](https://github.com/Devensingh09/Problems/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Devensingh09/Problems/tree/master/0349-intersection-of-two-arrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Devensingh09/Problems/tree/master/2685-first-completely-painted-row-or-column) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devensingh09/Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Devensingh09/Problems/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Devensingh09/Problems/tree/master/0349-intersection-of-two-arrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Devensingh09/Problems/tree/master/2685-first-completely-painted-row-or-column) |
 ## Matrix
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devensingh09/Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Devensingh09/Problems/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
 |  |
 | ------- |
