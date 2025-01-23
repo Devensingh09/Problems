@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Devensingh09/Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Devensingh09/Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Devensingh09/Problems/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/Devensingh09/Problems/tree/master/0219-contains-duplicate-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Devensingh09/Problems/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Devensingh09/Problems/tree/master/0066-plus-one) |
 ## Bit Manipulation
 |  |
 | ------- |
