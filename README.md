@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devensingh09/Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Devensingh09/Problems/tree/master/0005-longest-palindromic-substring) |
+| [0067-add-binary](https://github.com/Devensingh09/Problems/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Devensingh09/Problems/tree/master/0171-excel-sheet-column-number) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Devensingh09/Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Devensingh09/Problems/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -63,11 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Devensingh09/Problems/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Devensingh09/Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Devensingh09/Problems/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Devensingh09/Problems/tree/master/0171-excel-sheet-column-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Devensingh09/Problems/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Devensingh09/Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Devensingh09/Problems/tree/master/0136-single-number) |
 ## Counting
 |  |
@@ -77,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Devensingh09/Problems/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Devensingh09/Problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
