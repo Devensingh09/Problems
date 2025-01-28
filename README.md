@@ -100,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Devensingh09/Problems/tree/master/0094-binary-tree-inorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Devensingh09/Problems/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Devensingh09/Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
