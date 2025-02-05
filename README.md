@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Devensingh09/Problems/tree/master/0005-longest-palindromic-substring) |
 | [0119-pascals-triangle-ii](https://github.com/Devensingh09/Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devensingh09/Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/Devensingh09/Problems/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Devensingh09/Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Devensingh09/Problems/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Devensingh09/Problems/tree/master/0171-excel-sheet-column-number) |
+| [1013-fibonacci-number](https://github.com/Devensingh09/Problems/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Devensingh09/Problems/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Devensingh09/Problems/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Devensingh09/Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Devensingh09/Problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
