@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Devensingh09/Problems/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Devensingh09/Problems/tree/master/0171-excel-sheet-column-number) |
 | [1013-fibonacci-number](https://github.com/Devensingh09/Problems/tree/master/1013-fibonacci-number) |
+| [2083-three-divisors](https://github.com/Devensingh09/Problems/tree/master/2083-three-divisors) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -130,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Devensingh09/Problems/tree/master/1013-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Devensingh09/Problems/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Devensingh09/Problems/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
