@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Devensingh09/Problems/tree/master/0171-excel-sheet-column-number) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Devensingh09/Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Devensingh09/Problems/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Devensingh09/Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Devensingh09/Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Devensingh09/Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/Devensingh09/Problems/tree/master/1013-fibonacci-number) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Devensingh09/Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Array
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Devensingh09/Problems/tree/master/0055-jump-game) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Devensingh09/Problems/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Devensingh09/Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Simulation
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Devensingh09/Problems/tree/master/1013-fibonacci-number) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Devensingh09/Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Enumeration
 |  |
 | ------- |
