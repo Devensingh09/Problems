@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Devensingh09/Problems/tree/master/0171-excel-sheet-column-number) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Devensingh09/Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Devensingh09/Problems/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Devensingh09/Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Devensingh09/Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Dynamic Programming
 |  |
@@ -88,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Devensingh09/Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Devensingh09/Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Devensingh09/Problems/tree/master/0055-jump-game) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Devensingh09/Problems/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Devensingh09/Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Devensingh09/Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Simulation
 |  |
@@ -142,8 +145,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Devensingh09/Problems/tree/master/2083-three-divisors) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Devensingh09/Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Number Theory
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Devensingh09/Problems/tree/master/2083-three-divisors) |
+## Backtracking
+|  |
+| ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Devensingh09/Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->
