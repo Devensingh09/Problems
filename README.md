@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Devensingh09/Problems/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Devensingh09/Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Devensingh09/Problems/tree/master/0414-third-maximum-number) |
+| [0816-design-hashset](https://github.com/Devensingh09/Problems/tree/master/0816-design-hashset) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Devensingh09/Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Devensingh09/Problems/tree/master/2685-first-completely-painted-row-or-column) |
 ## Hash Table
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devensingh09/Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Devensingh09/Problems/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Devensingh09/Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0816-design-hashset](https://github.com/Devensingh09/Problems/tree/master/0816-design-hashset) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Devensingh09/Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Devensingh09/Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Devensingh09/Problems/tree/master/2685-first-completely-painted-row-or-column) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Devensingh09/Problems/tree/master/0206-reverse-linked-list) |
+| [0816-design-hashset](https://github.com/Devensingh09/Problems/tree/master/0816-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -161,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Devensingh09/Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+## Design
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Devensingh09/Problems/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Devensingh09/Problems/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
