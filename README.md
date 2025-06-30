@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Devensingh09/Problems/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Devensingh09/Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Devensingh09/Problems/tree/master/0414-third-maximum-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/Devensingh09/Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0816-design-hashset](https://github.com/Devensingh09/Problems/tree/master/0816-design-hashset) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Devensingh09/Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Devensingh09/Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devensingh09/Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Devensingh09/Problems/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Devensingh09/Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0594-longest-harmonious-subsequence](https://github.com/Devensingh09/Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0816-design-hashset](https://github.com/Devensingh09/Problems/tree/master/0816-design-hashset) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Devensingh09/Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Devensingh09/Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -66,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Devensingh09/Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Devensingh09/Problems/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Devensingh09/Problems/tree/master/0594-longest-harmonious-subsequence) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Devensingh09/Problems/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Devensingh09/Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Devensingh09/Problems/tree/master/0414-third-maximum-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/Devensingh09/Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Devensingh09/Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Devensingh09/Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Binary Search
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Devensingh09/Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Devensingh09/Problems/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Devensingh09/Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Greedy
