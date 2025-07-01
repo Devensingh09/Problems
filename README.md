@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/Devensingh09/Problems/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Devensingh09/Problems/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Devensingh09/Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3617-find-the-original-typed-string-i](https://github.com/Devensingh09/Problems/tree/master/3617-find-the-original-typed-string-i) |
 ## Dynamic Programming
 |  |
 | ------- |
