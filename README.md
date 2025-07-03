@@ -97,12 +97,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Devensingh09/Problems/tree/master/0171-excel-sheet-column-number) |
 | [1013-fibonacci-number](https://github.com/Devensingh09/Problems/tree/master/1013-fibonacci-number) |
 | [2083-three-divisors](https://github.com/Devensingh09/Problems/tree/master/2083-three-divisors) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Devensingh09/Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Devensingh09/Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Devensingh09/Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Devensingh09/Problems/tree/master/0136-single-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Devensingh09/Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Devensingh09/Problems/tree/master/0067-add-binary) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Devensingh09/Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Devensingh09/Problems/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Devensingh09/Problems/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Devensingh09/Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Divide and Conquer
 |  |
 | ------- |
